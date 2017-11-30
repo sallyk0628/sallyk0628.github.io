@@ -1,2 +1,3 @@
-# sallyk0628.github.io
-sally's personal website
+# sally's personal website
+url: https://sallyk0628.github.io
+
